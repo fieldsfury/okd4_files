@@ -12,7 +12,8 @@ $TTL    604800
 
 ; name servers - A records
 ocp4-fedora.local.          IN      A       10.105.1.1
-vcsa.myhlab.local              IN      A       10.105.1.91
+vcsa.myhlab.local.              IN      A       10.105.1.91
+vm-arena.dev.local.          IN        A      10.105.1.50
 
 
 
